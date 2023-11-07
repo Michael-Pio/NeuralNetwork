@@ -1,0 +1,12 @@
+﻿  Layer.cpp
+D:\Dev\OfficialProjects\Neural Network\Neural Network\Layer.cpp(63,15): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+D:\Dev\OfficialProjects\Neural Network\Neural Network\Layer.cpp(68,15): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+D:\Dev\OfficialProjects\Neural Network\Neural Network\Layer.cpp(86,20): warning C4018: '<': signed/unsigned mismatch
+  NeuralNetwork.cpp
+D:\Dev\OfficialProjects\Neural Network\Neural Network\NeuralNetwork.cpp(5,20): warning C4018: '<': signed/unsigned mismatch
+  Source.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 460 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Neural Network.vcxproj -> D:\Dev\OfficialProjects\Neural Network\Bin\Win32\Release\Neural Network.exe

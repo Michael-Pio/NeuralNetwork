@@ -1,0 +1,4 @@
+﻿  Source.cpp
+D:\Dev\OfficialProjects\Neural Network\Neural Network\Source.cpp(11,56): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Dev\OfficialProjects\Neural Network\Neural Network\Source.cpp(16,17): warning C4305: 'argument': truncation from 'double' to 'float'
+  Neural Network.vcxproj -> D:\Dev\OfficialProjects\Neural Network\Bin\x64\Debug\Neural Network.exe
